@@ -1,6 +1,6 @@
 
 # Project Name: Grand Theft Auto NYUAD
-# Website Link: https://steeti.github.io/NYUAD-GTA/
+# Website Link: https://steeti.github.io/MINI-Grand-Theft-Auto-NYUAD/
 
 ## Project Description:
 
